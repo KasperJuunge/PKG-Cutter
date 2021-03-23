@@ -24,8 +24,6 @@ python -m cookiecutter https://github.com/KasperJuunge/PKG-Cutter
 ├── LICENSE
 ├── README.md                           <- The top-level README for developers using this project.
 │
-├── notebooks                           <- Jupyter notebooks.
-│
 ├── references                          <- Data dictionaries, manuals, and all other explanatory materials.
 │
 ├── src                                 <- Source code for use in this project.
